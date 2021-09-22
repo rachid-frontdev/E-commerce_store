@@ -1,0 +1,22 @@
+{
+  "name": "e-commerce_store",
+  "version": "1.0.0",
+  "description": "my first store in github ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachid-frontdev/E-commerce_store.git"
+  },
+  "author": "rachidFrontdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rachid-frontdev/E-commerce_store/issues"
+  },
+  "homepage": "https://github.com/rachid-frontdev/E-commerce_store#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
