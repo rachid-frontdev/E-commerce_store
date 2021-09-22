@@ -331,6 +331,7 @@ font-size: 1.5em;
 }
 /*product Page */
 .main2 {
+  margin: 65px;
     display: grid;
     grid-row-gap: 1em;
     grid-template-columns: repeat(4,1fr);
@@ -339,4 +340,3 @@ font-size: 1.5em;
 .img_container img{
     width: 150px;
 }
-
